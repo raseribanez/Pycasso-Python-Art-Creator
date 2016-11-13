@@ -19,6 +19,7 @@ I hope to add the following over time:
 A Picture Frame Background to display image
 A choice of picture frames
 A menu system:
+
     Change colours
     Change shapes (add or remove rectangles/circles)
     Change volume of shapes
