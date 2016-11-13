@@ -16,8 +16,11 @@ See line 18 to change the value for the amount of shapes drawn
 This is the very first attempt or version of this.
 I hope to add the following over time:
 
+
 A Picture Frame Background to display image
+
 A choice of picture frames
+
 A menu system:
 
     Change colours
@@ -26,9 +29,9 @@ A menu system:
     Change Thickness of outline for a shape
     Save to a directory as an image / print screen / screenshot
     
+
+
+
 You are welcome to contribute ideas or code 0 this is only the first and very basic version!
-
-
 raserppsprograms@gmail.com
-
 Ben
