@@ -3,8 +3,10 @@
 # Pygame random positioning drawing
 # Turn Python into an Artist!
 
-__author__ = 'BenWoodfield'
-
+__author__ = "Ben Woodfield"
+__copyright__ = "Copyright (C) 2004 Author Name"
+__license__ = "GNU Public"
+__version__ = "1.0"
 
 import pygame,sys
 import random
