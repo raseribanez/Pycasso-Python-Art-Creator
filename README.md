@@ -14,6 +14,8 @@ See line 18 to change the value for the amount of shapes drawn
 
 
 This is the very first version of this program.
+Most of my improvement ideas involve the user being able to select
+different options for the output.
 
 TO DO LIST:
 
