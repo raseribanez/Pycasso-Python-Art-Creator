@@ -1,2 +1,17 @@
 # Pycasso-Python-Art-Creator
 Uses Python and Pygame to create random (and somewhat artistic) images
+
+Pygame Art Creator
+
+Turn Python into an artist by giving it complete control over the 
+drawing.
+Using random you can make all sorts of patterns using rectangles and circles.
+Sometimes it can appear a bit cluttered but if you play with the values -
+and run it a few times you will see some cool looking results
+
+See lines 24 and 25 in the code to edit the colors of the circles using RGB values
+See line 18 to change the value for the amount of shapes drawn
+
+raserppsprograms@gmail.com
+
+Ben
