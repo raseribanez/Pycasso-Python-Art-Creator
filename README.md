@@ -13,21 +13,19 @@ See lines 24 and 25 in the code to edit the colors of the circles using RGB valu
 See line 18 to change the value for the amount of shapes drawn
 
 
-This is the very first attempt or version of this.
-I hope to add the following over time:
+This is the very first version of this program.
+
+TO DO LIST:
 
 
-A Picture Frame Background to display image
-
-A choice of picture frames
-
-A menu system:
-
-    Change colours
-    Change shapes (add or remove rectangles/circles)
-    Change volume of shapes
-    Change Thickness of outline for a shape
-    Save to a directory as an image / print screen / screenshot
+    Picture frame display
+    Choice of frames
+    A menu system:
+    {Change colours,
+    Change shapes (add or remove rectangles/circles),
+    Change volume of shapes,
+    Change Thickness of outline for a shape,
+    Save to a directory as an image / print screen / screenshot}
     
 
 
