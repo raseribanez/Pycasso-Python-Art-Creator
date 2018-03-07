@@ -18,6 +18,8 @@ This is the very first version of this program.
 Most of my improvement ideas involve the user being able to select
 different options for the output.
 
+The pycasso_drawingsRandom.py file has the added feature of using random colours - so far I only have 3 colours added to this feature (red, blue and green)
+
 TO DO LIST:
 
 
@@ -33,6 +35,6 @@ TO DO LIST:
 
 
 
-You are welcome to contribute ideas or code 0 this is only the first and very basic version!
+You are welcome to contribute ideas or code. This is only the first and very basic version!
 raserppsprograms@gmail.com
 Ben
