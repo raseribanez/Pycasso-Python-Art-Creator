@@ -1,4 +1,5 @@
 # Pycasso-Python-Art-Creator
+Written by Ben Woodfield
 Uses Python and Pygame to create random (and somewhat artistic) images
 
 Pygame Art Creator
