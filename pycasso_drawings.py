@@ -12,7 +12,7 @@ import pygame,sys
 import random
 
 pygame.init()
-screencaption=pygame.display.set_caption('hello world')
+screencaption=pygame.display.set_caption('Pycasso - Pythons Random Art Creator')
 screen=pygame.display.set_mode([640,640])
 screen.fill([205,255,255])
 
