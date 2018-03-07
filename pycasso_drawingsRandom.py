@@ -1,4 +1,4 @@
-#usr/bin/env/python
+#!usr/bin/env/python
 # Ben Woodfield
 # Pygame random positioning drawing
 # Turn Python into an Artist!
@@ -12,9 +12,9 @@ import pygame,sys
 import random
 
 pygame.init()
-screencaption=pygame.display.set_caption('Pycasso Image Creator')
+screencaption=pygame.display.set_caption('Pycasso Image Creator - Ben Woodfield')
 screen=pygame.display.set_mode([640,640])
-screen.fill([205,255,255])
+screen.fill([0,0,0])# black background
 
 def random_color():
     rgbl = [255,0,0]
@@ -28,8 +28,9 @@ for i in range(30):
     height=random.randint(0,100)
     top=random.randint(0,400)
     left=random.randint(0,500)
-    pygame.draw.circle(screen, random_color(),[top,left],radius,1)  ### Circles
-    pygame.draw.rect(screen, random_color(),[left,top,width,height],3)### Rectangles
+    pygame.draw.circle(screen, random_color(),[top,left],radius)#,1)  ### Circles
+    pygame.draw.rect(screen, random_color(),[left,top,width,height])#,3)### Rectangles
+    # Above: If you remove the comment hash and include the number, shapes will not be filled
 
 pygame.display.flip()
 
